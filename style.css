@@ -1,0 +1,28 @@
+
+    body {
+        background-color:#000000;
+        text-align:center;
+    }
+    .loushek {
+        color: white
+    }
+    h1 {
+        color:white
+    }
+    h2 {
+        color:rgb(34, 187, 214)
+    }
+    a{
+        text-decoration: none;
+        border: 0;
+        outline: 0;
+        border-radius: 20px;
+        font-size: 25px;
+        padding: 5px 7px;
+        color: rgb(62, 92, 58);
+        background-color: rgb(0, 255, 255);
+        transition: all ease 0.5s;
+    }
+    a:hover{
+        transform: translateY(-10px);
+    }
